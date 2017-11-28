@@ -1,5 +1,5 @@
 # PPOC
-This repository implements the Proximal Policy Option-Critic algorithm. It is based on the [baselines](https://github.com/openai/baselines) from OpenAI. In order to be able to run the code, you should first install it directly from their official repository. After that, you simply have to replace the some of the files contained in the [ppo1](https://github.com/openai/baselines/tree/master/baselines/ppo1) folder on your machine.
+This repository implements the Proximal Policy Option-Critic algorithm. It is based on the [baselines](https://github.com/openai/baselines) from OpenAI. In order to be able to run the code, you should first install it directly from their official repository. After that, you simply have to replace the some of the files contained in the [ppo1](https://github.com/openai/baselines/tree/master/baselines/ppo1) folder on your machine, with the ones in this repository.
 
 To train a model and save the results:
 
