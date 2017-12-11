@@ -9,7 +9,7 @@ where the most important parameter is "dc", the deliberation cost.
 
 
 # Results
-It is possible to view some of our results in this [video](https://www.youtube.com/watch?v=XI_txkRnKjU). 
+It is possible to view some of our results in this [video](https://www.youtube.com/watch?v=R3YJQCIhCtI). 
 
 <p align="center" size="width 150">
   <img src="https://github.com/mklissa/PPOC/blob/master/score3.png"/>
