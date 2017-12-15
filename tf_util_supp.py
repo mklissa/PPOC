@@ -1,4 +1,3 @@
-
 def dense3D2(x, size, name, option, num_options=1, weight_init=None, bias=True):
     w = tf.get_variable(name + "/w", [num_options, x.get_shape()[1], size], initializer=weight_init)
     ret = tf.matmul(x, w[option[0]])
