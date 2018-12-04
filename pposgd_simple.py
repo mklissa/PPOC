@@ -102,7 +102,7 @@ def traj_segment_generator(pi, env, horizon, stochastic, num_options,saves,resul
             curr_opt_duration = 0.
             option = pi.get_option(ob)
       
-        cur_ep_ret += rew
+        cur_ep_ret += rew*10 if num_options > 1 else rew
         cur_ep_len += 1
 
 
