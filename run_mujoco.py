@@ -3,7 +3,6 @@ from baselines.common import set_global_seeds, tf_util as U
 from baselines import bench
 import os.path as osp
 import gym, logging
-from gym_extensions.continuous import mujoco
 import pdb
 
 from baselines import logger
